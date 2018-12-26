@@ -1,2 +1,8 @@
-# data_analysis_and_mining_python
-# data_analysis_and_mining_python
+### GOAL
+这个repo是对《Python数据分析与挖掘实战》项目部分的总结
+希望我在整理好这个repo之后，可以对DM和数据科学有更深层次的了解
+很久以前粗略看过一遍，但是没有动手实践过，发现很多地方都不理解，还是动手来的快一些
+### 原书代码和数据
+链接: https://pan.baidu.com/s/11AmGIp4M4TijHKx5aUTxGQ 提取码: 2ejz
+### 自我认知
+我就是个不求甚解的人，希望能以这种方式督促我自己
